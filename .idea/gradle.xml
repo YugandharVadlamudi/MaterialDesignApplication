@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bottomsheetesexampleapp" />
             <option value="$PROJECT_DIR$/bottomsheetsapp" />
             <option value="$PROJECT_DIR$/co-ordinatelayoutapp" />
             <option value="$PROJECT_DIR$/collapsingtoolbarapp" />
@@ -37,6 +38,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bottomsheetesexampleapp" />
             <option value="$PROJECT_DIR$/bottomsheetsapp" />
             <option value="$PROJECT_DIR$/co-ordinatelayoutapp" />
             <option value="$PROJECT_DIR$/collapsingtoolbarapp" />

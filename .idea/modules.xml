@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MaterialDesignApplication.iml" filepath="$PROJECT_DIR$/MaterialDesignApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottomsheetesexampleapp/bottomsheetesexampleapp.iml" filepath="$PROJECT_DIR$/bottomsheetesexampleapp/bottomsheetesexampleapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/bottomsheetsapp/bottomsheetsapp.iml" filepath="$PROJECT_DIR$/bottomsheetsapp/bottomsheetsapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/co-ordinatelayoutapp/co-ordinatelayoutapp.iml" filepath="$PROJECT_DIR$/co-ordinatelayoutapp/co-ordinatelayoutapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/collapsingtoolbarapp/collapsingtoolbarapp.iml" filepath="$PROJECT_DIR$/collapsingtoolbarapp/collapsingtoolbarapp.iml" />
