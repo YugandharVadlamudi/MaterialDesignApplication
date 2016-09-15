@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TAB App</string>
+    <string name="tab_one">Tab one</string>
+    <string name="tab_two">Tab two</string>
+    <string name="main_tab_text">Tab one </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment One</string>
+    <string name="secound_fragment">Fragment Two</string>
+    <string-array name="Tab_names">
+        <item>Tab one</item>
+        <item>Tab two</item>
+    </string-array>
+
+</resources>

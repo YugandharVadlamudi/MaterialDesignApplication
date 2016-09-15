@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewStateAnimationApp</string>
+    <string name="hint_name">Enter Name</string>
+</resources>

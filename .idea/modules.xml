@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaterialDesignApplication.iml" filepath="$PROJECT_DIR$/MaterialDesignApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottomsheetsapp/bottomsheetsapp.iml" filepath="$PROJECT_DIR$/bottomsheetsapp/bottomsheetsapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/co-ordinatelayoutapp/co-ordinatelayoutapp.iml" filepath="$PROJECT_DIR$/co-ordinatelayoutapp/co-ordinatelayoutapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collapsingtoolbarapp/collapsingtoolbarapp.iml" filepath="$PROJECT_DIR$/collapsingtoolbarapp/collapsingtoolbarapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firebasepushnotificationapp/firebasepushnotificationapp.iml" filepath="$PROJECT_DIR$/firebasepushnotificationapp/firebasepushnotificationapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatactionbuttonapp/floatactionbuttonapp.iml" filepath="$PROJECT_DIR$/floatactionbuttonapp/floatactionbuttonapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworldapp/helloworldapp.iml" filepath="$PROJECT_DIR$/helloworldapp/helloworldapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewloadmoreapplication/listviewloadmoreapplication.iml" filepath="$PROJECT_DIR$/listviewloadmoreapplication/listviewloadmoreapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/masterco-ordianteapp/masterco-ordianteapp.iml" filepath="$PROJECT_DIR$/masterco-ordianteapp/masterco-ordianteapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modelbottommsheettwoapp/modelbottommsheettwoapp.iml" filepath="$PROJECT_DIR$/modelbottommsheettwoapp/modelbottommsheettwoapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modelbottomsheetapp/modelbottomsheetapp.iml" filepath="$PROJECT_DIR$/modelbottomsheetapp/modelbottomsheetapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modelbottomsheetsapp/modelbottomsheetsapp.iml" filepath="$PROJECT_DIR$/modelbottomsheetsapp/modelbottomsheetsapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiplshareelementapp/multiplshareelementapp.iml" filepath="$PROJECT_DIR$/multiplshareelementapp/multiplshareelementapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationdrawerapp/navigationdrawerapp.iml" filepath="$PROJECT_DIR$/navigationdrawerapp/navigationdrawerapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nnotificationapp/nnotificationapp.iml" filepath="$PROJECT_DIR$/nnotificationapp/nnotificationapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewfinalapp/recyclerviewfinalapp.iml" filepath="$PROJECT_DIR$/recyclerviewfinalapp/recyclerviewfinalapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycleviewprogressbarapplication/recycleviewprogressbarapplication.iml" filepath="$PROJECT_DIR$/recycleviewprogressbarapplication/recycleviewprogressbarapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shareelementtransitionapp/shareelementtransitionapp.iml" filepath="$PROJECT_DIR$/shareelementtransitionapp/shareelementtransitionapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snackbarapp/snackbarapp.iml" filepath="$PROJECT_DIR$/snackbarapp/snackbarapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabapp/tabapp.iml" filepath="$PROJECT_DIR$/tabapp/tabapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textinputlayout_app/textinputlayout_app.iml" filepath="$PROJECT_DIR$/textinputlayout_app/textinputlayout_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewstateanimationapp/viewstateanimationapp.iml" filepath="$PROJECT_DIR$/viewstateanimationapp/viewstateanimationapp.iml" />
+    </modules>
+  </component>
+</project>

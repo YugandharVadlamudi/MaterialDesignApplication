@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autocomplete">
+        <item>one</item>
+        <item>two</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>eight</item>
+    </string-array>
+    <string-array name="recyclerviewlist">
+        <item>yugandhar</item>
+        <item>Madhava</item>
+        <item>Muthu</item>
+        <item>Tilga</item>
+        <item>Kavin</item>
+        <item>Kanaga Durga</item>
+        <item>SatishSahanmugam</item>
+        <item>SatishDurai</item>
+        <item>Muthu</item>
+    </string-array>
+</resources>

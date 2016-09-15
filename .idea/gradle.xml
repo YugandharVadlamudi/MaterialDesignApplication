@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Users\Kiran\Desktop\android-studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bottomsheetsapp" />
+            <option value="$PROJECT_DIR$/co-ordinatelayoutapp" />
+            <option value="$PROJECT_DIR$/collapsingtoolbarapp" />
+            <option value="$PROJECT_DIR$/firebasepushnotificationapp" />
+            <option value="$PROJECT_DIR$/floatactionbuttonapp" />
+            <option value="$PROJECT_DIR$/helloworldapp" />
+            <option value="$PROJECT_DIR$/listviewloadmoreapplication" />
+            <option value="$PROJECT_DIR$/masterco-ordianteapp" />
+            <option value="$PROJECT_DIR$/modelbottommsheettwoapp" />
+            <option value="$PROJECT_DIR$/modelbottomsheetapp" />
+            <option value="$PROJECT_DIR$/modelbottomsheetsapp" />
+            <option value="$PROJECT_DIR$/multiplshareelementapp" />
+            <option value="$PROJECT_DIR$/navigationdrawerapp" />
+            <option value="$PROJECT_DIR$/nnotificationapp" />
+            <option value="$PROJECT_DIR$/recyclerviewfinalapp" />
+            <option value="$PROJECT_DIR$/recycleviewprogressbarapplication" />
+            <option value="$PROJECT_DIR$/shareelementtransitionapp" />
+            <option value="$PROJECT_DIR$/snackbarapp" />
+            <option value="$PROJECT_DIR$/tabapp" />
+            <option value="$PROJECT_DIR$/textinputlayout_app" />
+            <option value="$PROJECT_DIR$/viewstateanimationapp" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bottomsheetsapp" />
+            <option value="$PROJECT_DIR$/co-ordinatelayoutapp" />
+            <option value="$PROJECT_DIR$/collapsingtoolbarapp" />
+            <option value="$PROJECT_DIR$/firebasepushnotificationapp" />
+            <option value="$PROJECT_DIR$/floatactionbuttonapp" />
+            <option value="$PROJECT_DIR$/helloworldapp" />
+            <option value="$PROJECT_DIR$/listviewloadmoreapplication" />
+            <option value="$PROJECT_DIR$/masterco-ordianteapp" />
+            <option value="$PROJECT_DIR$/modelbottommsheettwoapp" />
+            <option value="$PROJECT_DIR$/modelbottomsheetapp" />
+            <option value="$PROJECT_DIR$/modelbottomsheetsapp" />
+            <option value="$PROJECT_DIR$/multiplshareelementapp" />
+            <option value="$PROJECT_DIR$/navigationdrawerapp" />
+            <option value="$PROJECT_DIR$/nnotificationapp" />
+            <option value="$PROJECT_DIR$/recyclerviewfinalapp" />
+            <option value="$PROJECT_DIR$/recycleviewprogressbarapplication" />
+            <option value="$PROJECT_DIR$/shareelementtransitionapp" />
+            <option value="$PROJECT_DIR$/snackbarapp" />
+            <option value="$PROJECT_DIR$/tabapp" />
+            <option value="$PROJECT_DIR$/textinputlayout_app" />
+            <option value="$PROJECT_DIR$/viewstateanimationapp" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

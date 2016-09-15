@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="height_abl_main">300dp</dimen>
+    <dimen name="width_ctl_border">3dp</dimen>
+    <dimen name="padding_ctb">15dp</dimen>
+    <dimen name="size_tv_main">20sp</dimen>
+</resources>

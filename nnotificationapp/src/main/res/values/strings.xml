@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nnotification App</string>
+    <string name="NandroidNotification_remoteinput">Remote Input Text</string>
+    <string name="NandroidNotification_userkey">User Key</string>
+    <string name="lable_NandroidNotifiation_remoteinput">Remote Label</string>
+</resources>
